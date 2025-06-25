@@ -1,7 +1,6 @@
-# Uday-Mahendraker-assessment2
-DPDO Assessment of Docker file (Nginx, Reverse Proxy, Go, Python)
+# Nandeesh 
 
-docker compose up --build
+this is the project reference for the links which is enabled 
 
 http://localhost:8080/service1/ping
 http://localhost:8080/service1/hello
